@@ -13,3 +13,4 @@
 <img width="812" height="91" alt="изображение" src="https://github.com/user-attachments/assets/62d8f7a6-4085-4e4b-b7df-ebe50db7c9db" />
 
 ---
+3. **Нажмите кнопку запуска и дождитесь выполнения. Посмотреть ход процесса можно в журнале задач («Task Log») AdsPower.**
