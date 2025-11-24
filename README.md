@@ -8,7 +8,7 @@
 <img width="1279" height="510" alt="изображение" src="https://github.com/user-attachments/assets/eafce50e-bb08-45d5-b92e-a5fb5f3bdd09" />
 
 ---
-2. **Запустите процесс RPA, связанный с логином в Discord: в меню RPA выберите нужный процесс.**
+2. **Запустите процесс RPA, связанный с инвайтами в Discord: в меню RPA выберите нужный процесс.**
 
 <img width="812" height="91" alt="изображение" src="https://github.com/user-attachments/assets/62d8f7a6-4085-4e4b-b7df-ebe50db7c9db" />
 
